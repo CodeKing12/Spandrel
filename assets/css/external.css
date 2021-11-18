@@ -1,0 +1,108 @@
+/* SCSS Starts here */
+
+.services_list-item {
+    margin-top: 30px;
+}
+.services_list-item[data-order="1"] {
+    margin-top: 0;
+}
+.services_list-item .wrapper {
+    height: 100%;
+    border: 1px solid #c8c8c8;
+    padding: 30px;
+    transition: border-color 0.3s ease-in-out;
+}
+.services_list-item .wrapper:hover {
+    border-color: #FDB900;
+}
+.services_list-item .wrapper .number {
+    color: lightgray;
+    font-size: 36px;
+    line-height: 40px;
+}
+.services_list-item .wrapper .title {
+    margin: 20px 0;
+}
+.services_list-item .wrapper .description {
+    margin-bottom: 40px;
+    color: blackalt;
+}
+@media screen and (min-width: 575.98px) {
+    .services_list-item .wrapper {
+        padding: 40px;
+   }
+    .services_list-item .wrapper .number {
+        font-size: 40px;
+        line-height: 50px;
+   }
+}
+@media screen and (min-width: 767.98px) {
+    .services_list {
+        margin: 0 -15px;
+   }
+    .services_list-item {
+        padding: 0 15px;
+   }
+    .services_list-item[data-order="2"] {
+        margin-top: 0;
+   }
+    .services_list-item .wrapper {
+        padding: 30px;
+   }
+}
+@media screen and (min-width: 991.98px) {
+    .services_list {
+        margin: 0 -15px;
+   }
+    .services_list-item {
+        padding: 0 15px;
+        margin-top: 30px;
+   }
+    .services_list-item .wrapper {
+        padding: 40px;
+   }
+    .services_list-item .wrapper .number {
+        font-size: 48px;
+        line-height: 55px;
+   }
+}
+@media screen and (min-width: 1199.98px) {
+    .services_list-item[data-order="3"] {
+        margin-top: 0;
+   }
+}
+
+/* Manually Imported CSS */
+.section_header .subtitle {
+    text-transform: uppercase;
+    padding-left: 60px;
+    position: relative;
+    display: inline-block;
+    font-size: 17.5px;
+    line-height: 21px;
+    margin-bottom: 15px;
+    font-family: Archivo,sans-serif;
+    font-weight: 600;
+}
+
+.section_header .subtitle:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    height: 2px;
+    width: 40px;
+    background: #ffc631;
+}
+
+.section_header h2 {
+    font-size: 35px;
+    font-family: Raleway, sans-serif;
+}
+
+.services_header {
+    margin-bottom: 30px;
+}
