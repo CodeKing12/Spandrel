@@ -72176,3 +72176,144 @@ footer .mkd-social-icon-widget-holder {
     padding-top: 90px;
     padding-bottom: 90px;
 }
+
+
+/* CSS Imported Manually from The Company theme begins here */
+.misc .section-padding {
+    padding: 80px 0;
+}
+
+.misc .vc_row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.misc .vc_row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.misc .vc_column_container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.misc .vc_col-sm-12 {
+    width: 100%;
+}
+
+.misc .vc_col-sm-1, .misc .vc_col-sm-10, .misc .vc_col-sm-11, .misc .vc_col-sm-12, .misc .vc_col-sm-2, .misc .vc_col-sm-3, .misc .vc_col-sm-4, .misc .vc_col-sm-5, .misc .vc_col-sm-6, .misc .vc_col-sm-7, .misc .vc_col-sm-8, .misc .vc_col-sm-9 {
+    float: left;
+}
+
+.misc .vc_col-lg-1, .misc .vc_col-lg-10, .misc .vc_col-lg-11, .misc .vc_col-lg-12, .misc .vc_col-lg-2, .misc .vc_col-lg-3, .misc .vc_col-lg-4, .misc .vc_col-lg-5, .misc .vc_col-lg-6, .misc .vc_col-lg-7, .misc .vc_col-lg-8, .misc .vc_col-lg-9, .misc .vc_col-md-1, .misc .vc_col-md-10, .misc .vc_col-md-11, .misc .vc_col-md-12, .misc .vc_col-md-2, .misc .vc_col-md-3, .misc .vc_col-md-4, .misc .vc_col-md-5, .misc .vc_col-md-6, .misc .vc_col-md-7, .misc .vc_col-md-8, .misc .vc_col-md-9, .misc .vc_col-sm-1, .misc .vc_col-sm-10, .misc .vc_col-sm-11, .misc .vc_col-sm-12, .misc .vc_col-sm-2, .misc .vc_col-sm-3, .misc .vc_col-sm-4, .misc .vc_col-sm-5, .misc .vc_col-sm-6, .misc .vc_col-sm-7, .misc .vc_col-sm-8, .misc .vc_col-sm-9, .misc .vc_col-xs-1, .misc .vc_col-xs-10, .misc .vc_col-xs-11, .misc .vc_col-xs-12, .misc .vc_col-xs-2, .misc .vc_col-xs-3, .misc .vc_col-xs-4, .misc .vc_col-xs-5, .misc .vc_col-xs-6, .misc .vc_col-xs-7, .misc .vc_col-xs-8, .misc .vc_col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.misc .vc_column_container {
+    width: 100%;
+}
+
+.misc .vc_column_container>.vc_column-inner {
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.misc .vc_column_container>.vc_column-inner {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.misc .vc_column-inner::after, .misc .vc_column-inner::before {
+    content: " ";
+    display: table;
+}
+
+/*.misc .container {
+    width: 750px;
+}*/
+
+.sin-whatWork p {
+    font-size: 16px;
+    color: #000800;
+}
+
+.misc .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.misc .row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.misc .btn-group-vertical>.btn-group:after, .misc .btn-toolbar:after, .misc .clearfix:after, .misc .container-fluid:after, .misc .container:after, .misc .dl-horizontal dd:after, .misc .form-horizontal .form-group:after, .misc .modal-footer:after, .misc .modal-header:after, .misc .nav:after, .misc .navbar-collapse:after, .misc .navbar-header:after, .misc .navbar:after, .misc .pager:after, .misc .panel-body:after, .misc .row:after {
+    clear: both;
+}
+
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before {
+    display: table;
+    content: " ";
+}
+
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before {
+    display: table;
+    content: " ";
+}
+
+
+
+.sin-whatWork {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 18px;
+}
+
+.sin-whatWork {
+    line-height: 28px;
+    border: 1px solid #e9e9e9;
+    padding: 25px 20px 20px;
+    position: relative;
+}
+
+.sin-whatWork h2 {
+    font-size: 18px;
+    margin: 0 0 15px;
+    font-weight: 700;
+    font-family: poppins, sans-serif;
+    color: #222;
+}
+
+.sin-whatWork p {
+    margin: 0 0 10px;
+}
+
+.head-bottom-area, .contact-btn, .footer-newsletter>input[type=submit], .mainmenu-area ul.nav.navbar-nav li ul li:after, .Modern-Slider .PrevArrow:hover, .Modern-Slider .NextArrow:hover, .navbar-collapse, .cta-area, .color-palate-head, .sin-whatWork:after, .single-form input[type=submit], input#submit-comment, ul.degins li:after, .mean-container .mean-bar, .mean-container .mean-nav ul li, .Modern-Slider .PrevArrow:hover, .Modern-Slider .NextArrow:hover, .sin-pricing-table.active, #commentform input#submit, a.pricing-btn {
+    background-color: #f9bf3a;
+}
+
+.sin-whatWork:after {
+    background: #f8cf27 none repeat scroll 0 0;
+    content: "";
+    height: 30px;
+    left: -2px;
+    position: absolute;
+    top: 19px;
+    width: 3px;
+}
+
+.head-bottom-area, .contact-btn, .footer-newsletter>input[type=submit], .mainmenu-area ul.nav.navbar-nav li ul li:after, .Modern-Slider .PrevArrow:hover, .Modern-Slider .NextArrow:hover, .navbar-collapse, .cta-area, .color-palate-head, .sin-whatWork:after, .single-form input[type=submit], input#submit-comment, ul.degins li:after, .mean-container .mean-bar, .mean-container .mean-nav ul li, .Modern-Slider .PrevArrow:hover, .Modern-Slider .NextArrow:hover, .sin-pricing-table.active, a.pricing-btn {
+    background-color: #f8cf27;
+}
