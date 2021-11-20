@@ -19,7 +19,7 @@
 }
 .tabs_services-triggers_trigger.active:before {
     width: 4px;
-    background: #fdb900;
+    background: #CF1C23;
 }
 .tabs_services-content {
     overflow: hidden;

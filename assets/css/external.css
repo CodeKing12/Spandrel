@@ -13,7 +13,7 @@
     transition: border-color 0.3s ease-in-out;
 }
 .services_list-item .wrapper:hover {
-    border-color: #FDB900;
+    border-color: #CF1C23;
 }
 .services_list-item .wrapper .number {
     color: lightgray;
@@ -95,7 +95,7 @@
     transform: translateY(-50%);
     height: 2px;
     width: 40px;
-    background: #ffc631;
+    background: #CF1C23;
 }
 
 .section_header h2 {
@@ -115,8 +115,8 @@
 .tree * {margin: 0; padding: 0;}
 
 .tree ul {
-	padding-top: 20px; position: relative;
-	
+	padding-top: 20px; 
+  position: relative;
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
@@ -127,7 +127,6 @@
 	list-style-type: none;
 	position: relative;
 	padding: 20px 5px 0 5px;
-	
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
@@ -138,12 +137,12 @@
 .tree li::before, .tree li::after{
 	content: '';
 	position: absolute; top: 0; right: 50%;
-	border-top: 1px solid #FDB900;
+	border-top: 1px solid #CF1C23;
 	width: 50%; height: 20px;
 }
 .tree li::after{
 	right: auto; left: 50%;
-	border-left: 1px solid #FDB900;
+	border-left: 1px solid #CF1C23;
 }
 
 /*We need to remove left-right connectors from elements without 
@@ -163,7 +162,7 @@ right connector from last child*/
 
 /*Adding back the vertical connector to the last nodes*/
 .tree li:last-child::before{
-	border-right: 1px solid #FDB900;
+	border-right: 1px solid #CF1C23;
 	border-radius: 0 5px 0 0;
 	-webkit-border-radius: 0 5px 0 0;
 	-moz-border-radius: 0 5px 0 0;
@@ -178,12 +177,12 @@ right connector from last child*/
 .tree ul ul::before{
 	content: '';
 	position: absolute; top: 0; left: 50%;
-	border-left: 1px solid #FDB900;
+	border-left: 1px solid #CF1C23;
 	width: 0; height: 20px;
 }
 
 .tree li a{
-	border: 1px solid #FDB900;
+	border: 1px solid #CF1C23;
 	padding: 1em 0.75em;
 	text-decoration: none;
 	color: #666767;
@@ -207,7 +206,7 @@ right connector from last child*/
 /* -------------------------------- */
 
 .tree ul.vertical, ul.vertical ul {
-  padding-top: 0px;
+  padding-top: 30px;
   left: 50%;
 }
 
@@ -238,14 +237,14 @@ right connector from last child*/
 .tree ul.vertical li::before {
   top: -20px;
   left: 0px;
-	border-bottom: 1px solid #FDB900;
-	border-left: 1px solid #FDB900;
-	width: 20px; height: 60px;
+	border-bottom: 1px solid #CF1C23;
+	border-left: 1px solid #CF1C23;
+	width: 20px; height: 70px;
 }
 
 .tree ul.vertical li:first-child::before {
   top: 0px;
-  height: 40px;
+  height: 50px;
 }
 
 /* Lets add some extra styles */
@@ -265,7 +264,7 @@ div.tree > ul > li > a {
 /* We will apply the hover effect the the lineage of the element also */
 /* ------------------------------------------------------------------ */
 .tree li a:hover, .tree li a:hover+ul li a {
-	background: #FDB900;
+	background: #CF1C23;
   color: white;
   /* border: 1px solid #aaa; */
 }

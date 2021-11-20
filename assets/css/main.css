@@ -141,18 +141,18 @@ button{
 }
 ::-webkit-scrollbar-thumb {
     cursor: pointer;
-    background: #fdb900;
+    background: #CF1C23;
 }
 ::selection {
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff
 }
 -webkit-::selection {
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff
 }
 ::-moz-selection {
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff
 }
 
@@ -169,7 +169,7 @@ button{
 
 .bg-white{ background-color: #fff; }
 .bg-grey{ background-color: #f4f4f4;}
-.bg-yellow{ background-color: #fdb900cc;}
+.bg-yellow{ background-color: #CF1C23cc;}
 .bg-blue{ background-color: #0b2653e8 }
 .bg-blue-2{ background-color: #0b2653 }
 .bg-dark{ background-color: #242323!important;}
@@ -218,7 +218,7 @@ button{
 }
 
 .site-preloader-wrap .spinner {
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -266,7 +266,7 @@ button{
 }
 .default-btn{
     display: inline-block;
-    background: #fdb900;
+    background: #CF1C23;
     color: #fff;
     font-family: 'Work Sans', sans-serif;
     font-size: 12px;
@@ -327,7 +327,7 @@ button{
     display: inline-block;
     text-transform: uppercase;
     font-size: 18px;
-    color: #fdb900;
+    color: #CF1C23;
     font-weight: 500;
     letter-spacing: 1px;
     font-family: "Teko",sans-serif;
@@ -337,7 +337,7 @@ button{
 }
 
 .section-heading span{
-    color: #fdb900;
+    color: #CF1C23;
 }
 
 .map-pattern{
@@ -389,7 +389,7 @@ button{
     z-index: 10;
 }
 .nav-style .slick-arrow:hover{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff;
 }
 .nav-style .slick-arrow.right{
@@ -423,7 +423,7 @@ button{
     text-indent: -999px;
 }
 .carousel-dots .slick-dots li.slick-active button{
-    background-color: #fdb900;
+    background-color: #CF1C23;
 }
 .carousel-dots .slick-dots li button:focus{ outline: none; }
 @media (max-width: 767px) {
@@ -489,7 +489,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     width: 100%;
     height: 100%;
     text-align: center;
-    background-color: #fdb900;
+    background-color: #CF1C23;
     font-size: 20px;
     padding: 0;
     line-height: 40px;
@@ -574,7 +574,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     width: 100%;
     height: auto;
     display: block;
-    border-bottom: 4px solid #fdb900;
+    border-bottom: 4px solid #CF1C23;
 }
 .header-logo img{ max-width: 70%; }
 .sticky-header{
@@ -683,7 +683,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .mid-header .mid-header-right ul li .icon{
     font-size: 40px;
-    color: #fdb900;
+    color: #CF1C23;
     text-align: center;
     width: 50px;
     height: 50px;
@@ -729,7 +729,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     -webkit-font-smoothing: antialiased;
 }
 .header-menu-wrap ul li:hover > a{
-    color: #fdb900;
+    color: #CF1C23;
 }
 .header-menu-wrap li ul{
     background-color: #fff;
@@ -779,7 +779,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .header-menu-wrap li li:hover > a{
     color: #fff;
-    background-color: #fdb900;
+    background-color: #CF1C23;
 }
 .header-menu-wrap li ul li ul{
     width: 250px;
@@ -925,7 +925,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .header-right a.header-btn{
     display: inline-block;
-    background: #fdb900;
+    background: #CF1C23;
     color: #fff;
     font-family: 'Work Sans', sans-serif;
     font-size: 12px;
@@ -1051,7 +1051,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 	padding: 10px 50px 10px 10px;
     background: transparent;
     border: none;
-    border-bottom: 3px solid #fdb900;
+    border-bottom: 3px solid #CF1C23;
     font-size: 36px;
     color: #ddd;
 }
@@ -1066,7 +1066,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     top: 50%;
     background: transparent;
     border: none;
-    color: #fdb900;
+    color: #CF1C23;
     font-size: 40px;
 	transform: translateY(-50%);
     -webkit-transition: 500ms ease all;
@@ -1161,7 +1161,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .hero-content{}
 .hero-content h4{
     font-size: 18px;
-    color: #fdb900;
+    color: #CF1C23;
     text-transform: uppercase;
 }
 .hero-content h2{
@@ -1171,7 +1171,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     margin: 20px 0;
 }
 .hero-content h2 span{
-    color: #fdb900;
+    color: #CF1C23;
 }
 .hero-content p{
     font-family: "Roboto", sans-serif;
@@ -1211,7 +1211,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .about-icon{
     font-size: 50px;
-    color: #fdb900;
+    color: #CF1C23;
     position: absolute;
     left: 0;
     top: 18px;
@@ -1230,7 +1230,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .sign img{ padding-left: 30px; }
 
 .exp-box{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -1238,7 +1238,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     transform: translate(-50%, -50%);
 }
 .exp-box:before{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: absolute;
     content: "";
     width: 20px;
@@ -1271,7 +1271,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .list-icon li:last-child{ margin-bottom: 0; }
 .list-icon li i{
-    color: #fdb900;
+    color: #CF1C23;
     padding-right: 15px
 }
 .about-section-3 .about-img{ position: relative; }
@@ -1289,7 +1289,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     position: relative;
 }
 .service-box .service-icon{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff;
     text-align: center;
     font-size: 40px;
@@ -1326,7 +1326,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .service-2 .service-icon{
     font-size: 60px;
-    color: #fdb900;
+    color: #CF1C23;
     position: absolute;
     left: 0;
     top: 30px;
@@ -1372,7 +1372,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     transition: all .3s linear;
 }
 .service-wrap i{
-    color: #fdb900;
+    color: #CF1C23;
     width: 60px;
     height: 60px;
     line-height: 60px;
@@ -1409,11 +1409,11 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     opacity: .2;
 }
 .service-wrap .overlay-icon i{
-    color: #fdb900;
+    color: #CF1C23;
     font-size: 120px;
 }
 .promo-count{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     width: 30px;
     height: 30px;
     line-height: 30px;
@@ -1429,7 +1429,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     transition-duration: .5s;
 }
 .promo-count:before{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     content: "";
     width: 2px;
     height: 42px;
@@ -1465,11 +1465,11 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     z-index: 1;
 }
 .service-4 .service-item:hover{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     transition: all .3s ease-in-out;
 }
 .service-4 .service-icon{
-    color: #fdb900;
+    color: #CF1C23;
     width: 60px;
     height: 60px;
     line-height: 60px;
@@ -1487,7 +1487,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .service-4 .service-content p{ color: #ddd; }
 .service-4 .service-content .read-more{
     font-family: "Work Sans",sans-serif;
-    color: #fdb900;
+    color: #CF1C23;
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
@@ -1499,7 +1499,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     opacity: .2;
 }
 .service-4 .service-item .overlay-icon i{
-    color: #fdb900;
+    color: #CF1C23;
     font-size: 100px;
 }
 .service-4 .service-item:hover .service-icon,
@@ -1540,7 +1540,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     overflow: hidden;
 }
 .project-thumb .project-view{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     background-color: rgba(5, 20, 65, 0.8);
     content: '';
     position: absolute;
@@ -1554,7 +1554,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 .project-thumb .project-view a{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff;
     font-weight: 500;
     text-align: center;
@@ -1602,7 +1602,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .project-content h3 a{
 	color: #343352;
 }
-.project-content h3 a:hover{ color: #fdb900; }
+.project-content h3 a:hover{ color: #CF1C23; }
 .project-section .carousel-dots .slick-dots{ margin-top: 0; }
 .project-filter{ margin-bottom: 30px; }
 .project-filter li{
@@ -1616,7 +1616,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     text-transform: uppercase;
     letter-spacing: 1px;
 }
-.project-filter li.active{ color: #fdb900; }
+.project-filter li.active{ color: #CF1C23; }
 
 /*=========== Project 2 ==========*/
 .project-section-2{}
@@ -1638,7 +1638,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .project-info-box .p-social{ margin-top: 30px; }
 .project-info-box .p-social a{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff;
     font-size: 12px;
     width: 35px;
@@ -1679,7 +1679,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     font-size: 38px;
     line-height: 42px;
     font-weight: 600;
-    color: #fdb900;
+    color: #CF1C23;
 }
 .counter-content h4{
     color: #fff;
@@ -1708,7 +1708,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     transition: all .3s ease-in-out;
 }
 .team-thumb .shape-2{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: absolute;
     width: 60px;
     height: 280px;
@@ -1809,7 +1809,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .team-section-2 .section-heading p{ color: #ddd; }
 .team-section-2 .team-box{ margin-bottom: -83px; }
 .team-section-2 .team-content{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     width: 100%;
     left: 0;
     bottom: 0;
@@ -1872,7 +1872,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .skills-items .skills-item .progress .progress-bar{
     line-height: 5px;
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: relative;
 }
 .skills-items .skills-item .progress .progress-bar span{
@@ -1890,11 +1890,11 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .skill-list li i{
     font-size: 14px;
-    color: #fdb900;
+    color: #CF1C23;
     margin-right: 15px;
 }
 .play-btn{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: absolute;
     width: 70px;
     height: 70px;
@@ -2027,14 +2027,14 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .testi-item .ratings li{ display: inline-block; }
 .testi-item .ratings li i{
     font-size: 12px;
-    color: #fdb900;
+    color: #CF1C23;
 }
 .testi-content .quote-icon{
     position: absolute;
     right: 30px;
     bottom: -10px;
     font-size: 50px;
-    color: #fdb900;
+    color: #CF1C23;
     opacity: .5;
 }
 
@@ -2076,7 +2076,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .icon-box{
     background-color: #f9f9f9;
-    color: #fdb900;
+    color: #CF1C23;
     border-style: solid;
     position: relative;
     width: 110px;
@@ -2089,7 +2089,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .icon-box i{ font-size: 50px; }
 .icon-box span{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     font-size: 16px;
     color: #fff;
     position: absolute;
@@ -2101,7 +2101,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     line-height: 30px;
     border-radius: 50%;
     border: 5px solid rgba(253, 186, 0, .1);
-    border-color: #fdb900;
+    border-color: #CF1C23;
     box-sizing: content-box;
     text-align: center;
 }
@@ -2171,7 +2171,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .info-box{ padding: 100px 40px 100px 40px; }
 .info-box i{
     font-size: 60px;
-    color: #fdb900;
+    color: #CF1C23;
 }
 .info-box h3{
     font-size: 32px;
@@ -2239,7 +2239,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     position: relative;
 }
 .acc-item.active-acc h5 a{
-    color: #fdb900;
+    color: #CF1C23;
 }
 .acc-item h5 a:before {
     content: "\f067";
@@ -2255,7 +2255,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     color: #fff;
 }
 .acc-item h5 a[aria-expanded^="true"]{
-    color: #fdb900;
+    color: #CF1C23;
 }
 .card-body {
     font-size: 15px;
@@ -2357,7 +2357,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     right: -120px;
 }
 .pricing-tag h4{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     font-family: "Work Sans",sans-serif;
     color: #fff;
     font-size: 12px;
@@ -2402,7 +2402,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     line-height: 50px;
     text-align: center;
     border-radius: 0;
-    background-color: #fdb900;
+    background-color: #CF1C23;
 }
 .contact-section .form-group{ margin-bottom: 30px;}
 .contact-section .form-control{
@@ -2477,7 +2477,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     object-fit: cover;
 }
 .blog-item .blog-thumb .category{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     padding: 5px 15px;
     text-align: center;
     color: #fff;
@@ -2514,7 +2514,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     -ms-word-wrap: break-word;
     word-wrap: break-word;
 }
-.blog-content h3 a:hover{ color: #fdb900; }
+.blog-content h3 a:hover{ color: #CF1C23; }
 .blog-content .read-more{
     font-family: "Work Sans",sans-serif;
     color: #051441;
@@ -2524,9 +2524,9 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     position: relative;
     padding-left: 40px;
 }
-.blog-content .read-more:hover{ color: #fdb900; }
+.blog-content .read-more:hover{ color: #CF1C23; }
 .blog-content .read-more:before{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: absolute;
     content: "";
     width: 30px;
@@ -2556,14 +2556,14 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     border-radius: 2px;
 }
 .pagination-wrap li a:hover{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff;
     opacity: 1;
     text-decoration: none;
 }
 .pagination-wrap li a.active{
-    background-color: #fdb900;
-    border: 1px solid #fdb900;
+    background-color: #CF1C23;
+    border: 1px solid #CF1C23;
     color: #fff;
 }
 
@@ -2575,7 +2575,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     font-size: 32px;
     color: #051441;
 }
-.blog-single-content h2 a:hover{ color: #fdb900; }
+.blog-single-content h2 a:hover{ color: #CF1C23; }
 .single-post-meta{ margin-bottom: 20px; }
 .single-post-meta li{
     display: inline-block;
@@ -2583,7 +2583,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 }
 .single-post-meta li i{
     font-size: 12px;
-    color: #fdb900;
+    color: #CF1C23;
     margin-right: 5px;
 }
 .single-post-meta li a{
@@ -2598,7 +2598,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 blockquote{
     background-color: #f4f4f4;
     padding: 40px;
-    border-left: 4px solid #fdb900;
+    border-left: 4px solid #CF1C23;
     margin: 30px 0;
     position: relative;
     z-index: 1;
@@ -2628,7 +2628,7 @@ blockquote span{
 }
 .post-tags li a{
     display: inline-block;
-    background-color: #fdb900;
+    background-color: #CF1C23;
     padding: 5px 10px;
     border-radius: 0;
     font-size: 12px;
@@ -2647,7 +2647,7 @@ blockquote span{
     align-items: center;
     padding: 30px;
     margin-top: 30px;
-    border-left: 4px solid #fdb900;
+    border-left: 4px solid #CF1C23;
 }
 .author-box img{
     border-radius: 50%;
@@ -2670,7 +2670,7 @@ blockquote span{
     color: #051441;
 }
 .author-box .social-icon li a:hover{
-    color: #fdb900;
+    color: #CF1C23;
 }
 
 /*===== Post Navigation =====*/
@@ -2710,7 +2710,7 @@ blockquote span{
     margin-left: 10px;
 }
 .post-navigation .col a:hover{
-    color: #fdb900;
+    color: #CF1C23;
 }
 .post-navigation .col.prev-post .fa{
     margin-right: 10px;
@@ -2787,14 +2787,14 @@ blockquote span{
     font-family: "Work Sans", sans-serif;
     font-size: 12px;
     font-weight: 600;
-    color: #fdb900;
+    color: #CF1C23;
     display: inline-block;
     text-transform: uppercase;
     padding-left: 35px;
     position: relative;
 }
 .blog-single-wrap .comments-area .comment-reply-link:before{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: absolute;
     content: "";
     width: 30px;
@@ -2827,7 +2827,7 @@ blockquote span{
 }
 .blog-single-wrap .comment-respond form input:focus,
 .blog-single-wrap .comment-respond form textarea:focus {
-    border-color: #fdb900;
+    border-color: #CF1C23;
 }
 .blog-single-wrap .comment-respond form textarea {
     height: 200px;
@@ -2847,7 +2847,7 @@ blockquote span{
 .blog-single-wrap .comment-respond .form-submit input{
     font-family: "Work Sans", sans-serif;
     max-width: 180px;
-    background-color: #fdb900;
+    background-color: #CF1C23;
     color: #fff;
     font-weight: 600;
     font-size: 12px;
@@ -2878,7 +2878,7 @@ blockquote span{
     margin-bottom: 30px;
 }
 .sidebar-wrap .widget-content h4:before{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     position: absolute;
     content: "";
     width: 20%;
@@ -2968,7 +2968,7 @@ blockquote span{
     letter-spacing: -0.5px;
 }
 .thumb-post li a:hover{
-    color: #fdb900;
+    color: #CF1C23;
     text-decoration: none;
 }
 .thumb-post span{
@@ -2985,7 +2985,7 @@ blockquote span{
 }
 .widget-content .tags li a{
     display: inline-block;
-    background-color: #fdb900;
+    background-color: #CF1C23;
     padding: 5px 10px;
     border-radius: 0;
     font-size: 12px;
@@ -3017,7 +3017,7 @@ blockquote span{
     letter-spacing: 0.2;
 }
 .widget-content ul li a:hover{
-    color: #fdb900;
+    color: #CF1C23;
 }
 
 /* ==========================================================================
@@ -3099,7 +3099,7 @@ blockquote span{
 .footer-icon-content svg{
     width: 50px;
     height: 50px;
-    fill: #fdb900;
+    fill: #CF1C23;
     position: absolute;
     left: 0;
     top: 7px;
@@ -3114,7 +3114,7 @@ blockquote span{
 }
 .footer-icon-info a{
     font-family: 'Teko', sans-serif;
-    color: #fdb900;
+    color: #CF1C23;
     font-weight: 600;
     margin-bottom: 0;
 }
@@ -3133,7 +3133,7 @@ blockquote span{
     text-align: center;
     display: inline-block;
 }
-.footer-social li a:hover{ background-color: #fdb900; }
+.footer-social li a:hover{ background-color: #CF1C23; }
 .footer-header{
     position: relative;
 }
@@ -3142,7 +3142,7 @@ blockquote span{
     color: #fff;
 }
 .footer-header h3:after{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     content: "";
     display: inline-block;
     width: 60px;
@@ -3159,11 +3159,11 @@ blockquote span{
     font-size: 15px;
     color: #ddd;
 }
-.footer-list li a:hover{ color: #fdb900; }
+.footer-list li a:hover{ color: #CF1C23; }
 
 .footer-section .thumb-post li a{ color: #fff; }
 .footer-section .thumb-post li a span{ color: #ddd; }
-.footer-section .thumb-post li a:hover{ color: #fdb900; }
+.footer-section .thumb-post li a:hover{ color: #CF1C23; }
 .subscribe-widget{
     padding: 40px;
     padding-top: 60px;
@@ -3172,7 +3172,7 @@ blockquote span{
     z-index: 1;
 }
 .subscribe-widget:before{
-    background-color: #fdb900;
+    background-color: #CF1C23;
     width: 100%;
     height: 100%;
     content: "";
@@ -3215,7 +3215,7 @@ blockquote span{
     box-shadow: none;
 }
 .subscribe-widget input[type="submit"] {
-    background-color: #fdb900;
+    background-color: #CF1C23;
     background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="white" d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"></path></svg>');
     background-repeat: no-repeat;
     background-position: center center;
@@ -3382,7 +3382,7 @@ blockquote span{
 }
 
 .assion {
-/*    border: 1px solid #FDB900;*/
+/*    border: 1px solid #CF1C23;*/
 }
 
 .values {
@@ -3401,7 +3401,7 @@ blockquote span{
 }
 
 .heading span {
-    color: #FBD900
+    color: #CF1C23
 }
 
 @media screen and (min-width: 577px) {
@@ -3572,5 +3572,20 @@ blockquote span{
 }
 
 .highlight {
-    color: #FDB900;
+    color: #CF1C23;
+}
+
+.header-logo img {
+    height: 60px;
+    width: 65px !important;
+}
+
+.header-logo .logo-text {
+    width: 110px !important;
+    height: 100%;
+}
+
+.organogram {
+    display: flex;
+    justify-content: center;
 }
