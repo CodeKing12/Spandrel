@@ -3589,3 +3589,45 @@ blockquote span{
     display: flex;
     justify-content: center;
 }
+
+.one-project h2, h3 {
+    display: inline-block;
+}
+
+.one-project h2 {
+    margin-bottom: unset;
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+.one-project h3 {
+}
+
+.subit {
+    font-size: 20px;
+    margin-top: -60px;
+}
+
+.subit-text {
+    font-size: 18px;
+}
+
+.project-title {
+    display: block;
+    margin-bottom: unset;
+}
+
+@media (max-width: 530px) {
+    .project-title {
+        display: block;
+        margin-bottom: 15px;
+    }
+}
+
+.one-project {
+    margin-bottom: 70px;
+}
+
+.one-project .project-items > div {
+    
+}
