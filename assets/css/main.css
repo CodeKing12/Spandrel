@@ -3628,6 +3628,13 @@ blockquote span{
     margin-bottom: 70px;
 }
 
-.one-project .project-items > div {
-    
+.the-organ {
+    background-color: #f5f5f5;
+}
+
+.the-organ h2 {
+    margin: unset;
+    font-size: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
