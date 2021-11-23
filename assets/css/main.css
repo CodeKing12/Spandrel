@@ -1878,7 +1878,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
 .skills-items .skills-item .progress .progress-bar span{
     position: absolute;
     top: -15px;
-    right: -15px;
+    right: 1px;
     font-size: 14px;
     font-weight: 600;
     color: #fff;
