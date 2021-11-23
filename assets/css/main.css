@@ -3649,6 +3649,7 @@ html {
 }
 
 .da-logo-text {
+    margin-top: 10px;
     width: 120px;
     height: auto;
 }
