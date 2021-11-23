@@ -3638,3 +3638,17 @@ blockquote span{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+.da-logo {
+    width: 50px;
+    height: auto;
+}
+
+.da-logo-text {
+    width: 120px;
+    height: auto;
+}
