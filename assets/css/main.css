@@ -3653,3 +3653,16 @@ html {
     width: 120px;
     height: auto;
 }
+
+.member-profile .member-image {
+    display: none;
+}
+
+.member-profile {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.skills-section {
+    margin-top: -5px;
+}
