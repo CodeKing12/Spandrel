@@ -1832,7 +1832,7 @@ a,a:hover, img, .form-control,  .form-control:hover, button{
     Skills Section
 =============================================== */
 .skills-section{
-    background-image: url(../img/bg-img-01.jpg);
+    background-image: url(../img/stock/todd-quackenbush-IClZBVw5W5A-unsplash.jpg);
     background-position: right center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3675,4 +3675,8 @@ html {
 .team-thumb .place {
     width: 100%;
     height: 200px;
+}
+
+.testimonials-section img {
+    object-fit: cover;
 }
