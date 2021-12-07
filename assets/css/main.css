@@ -3680,3 +3680,12 @@ html {
 .testimonials-section img {
     object-fit: cover;
 }
+
+.slider-content-wrap {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#contacts {
+    padding-top: 130px;
+    padding-bottom: 130px; 
+}
